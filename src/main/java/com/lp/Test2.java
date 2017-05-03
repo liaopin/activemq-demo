@@ -13,6 +13,6 @@ public class Test2 {
 	}
 	
 	public void m2(){
-		System.out.println("垃圾方法");
+		System.out.println("垃圾方法1111");
 	}
 }
