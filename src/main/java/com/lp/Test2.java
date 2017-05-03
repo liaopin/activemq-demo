@@ -7,4 +7,12 @@ public class Test2 {
 
 	}
 
+	
+	public void m1(){
+		
+	}
+	
+	public void m2(){
+		System.out.println("垃圾方法");
+	}
 }
